@@ -1,0 +1,9 @@
+||||
+||||
+||||
+||Portal||
+||CreatureRoom||
+|FindLightsaber|EmptyPassage|AlienRoom|
+||EmptyPassage||
+AlienRoom|EmptyPassage|Spaceship|EmptyPassage|FindLaserGun
+||FindPotionRoom||

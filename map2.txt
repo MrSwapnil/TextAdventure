@@ -1,0 +1,3 @@
+||Portal||
+||CreatureRoom|FindLaserGun|
+||Second_Spaceship||
