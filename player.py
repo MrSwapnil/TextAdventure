@@ -141,7 +141,7 @@ class Player():
         if chosenPotion.amt == 0:
             self.inventory.remove(chosenPotion)
         #sound
-            util.HealSound()
+           # util.HealSound()
 
         if self.maxHp < self.hp:
             self.hp = self.maxHp
